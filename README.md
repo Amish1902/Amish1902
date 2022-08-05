@@ -32,11 +32,15 @@ My major is Computer Science and I do Problem Solving for fun. I currently pract
 <p align="left"> 
   &emsp;
    <a href="https://html.com/" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/html-blue??style=flat&logo=HTML">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-blue??style=flat&logo=HTML">
   </a>
   &emsp;
-   <a href="https://html.com/" target="_blank">
+   <a href="https://www.w3schools.com/Css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-red??style=flat&logo=CSS">
+  </a>
+  &emsp;
+   <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JS-yellow??style=flat&logo=JS">
   </a>
 </p>
 
