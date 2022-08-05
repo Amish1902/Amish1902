@@ -70,18 +70,17 @@ My major is Computer Science and I do Problem Solving for fun. I currently pract
 
 <!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/kaizoku01"><img width="60%" alt="Sarvagya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amish1902&custom_title=Sarvagya%20Saxena%27s%20Contribution%20Graph&theme=react-dark"/></a>
+   <a href="https://github.com/kaizoku01"><img width="60%" alt="Sarvagya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amish1902&custom_title=Amish%20Mishra%27s%20Contribution%20Graph&theme=react-dark"/></a>
   <br/> -->
 
 <br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:saxenasarvagya11@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/kaizoku01"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sarvagya-saxena-513a841b6/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>  </a>
-<!-- 	<a href="https://www.facebook.com/rythm.shandlya/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<a href="https://www.instagram.com/sarvagyaa._/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:amish1902@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Amish1902"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/amish-mishra-4a6597217/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>  </a>
+<!-- 	<a href="https://www.instagram.com/amish_mishra9/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </a>
 </p>
 
