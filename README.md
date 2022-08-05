@@ -80,7 +80,7 @@ My major is Computer Science and I do Problem Solving for fun. I currently pract
 	<a href="mailto:amish1902@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Amish1902"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/amish-mishra-4a6597217/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>  </a>
-<!-- 	<a href="https://www.instagram.com/amish_mishra9/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+ 	<a href="https://www.instagram.com/amish_mishra9/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </a>
 </p>
 
