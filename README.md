@@ -31,8 +31,12 @@ My major is Computer Science and I do Problem Solving for fun. I currently pract
 ### For Development
 <p align="left"> 
   &emsp;
-   <a href="https://flutter.dev/" target="_blank">
-    <img alt="Flutter" src="https://img.shields.io/badge/html-blue??style=flat&logo=html">
+   <a href="https://html.com/" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/html-blue??style=flat&logo=HTML">
+  </a>
+  &emsp;
+   <a href="https://html.com/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-red??style=flat&logo=CSS">
   </a>
 </p>
 
