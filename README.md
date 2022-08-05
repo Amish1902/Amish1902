@@ -57,7 +57,7 @@ My major is Computer Science and I do Problem Solving for fun. I currently pract
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   <p align="left">
   &emsp;
-    <a href="https://aws.amazon.com/free/?trk=16847e0c-46fb-467d-91ee-6e259e339665&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-BI|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!10!71949448220923!71949892741875&ef_id=89f31e8b54c4120812c27c67a2d3c246:G:s&s_kwcid=AL!4422!10!71949448220923!71949892741875&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img alt="AWS" src="https://img.shields.io/badge/AWS-lightyellow??style=flat&logo=AWS">
+    <a href="https://aws.amazon.com/free/?trk=16847e0c-46fb-467d-91ee-6e259e339665&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-BI|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!10!71949448220923!71949892741875&ef_id=89f31e8b54c4120812c27c67a2d3c246:G:s&s_kwcid=AL!4422!10!71949448220923!71949892741875&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange??style=flat&logo=AWS">
 <br/>
 
 ## 📊 Github Stats
