@@ -1,71 +1,24 @@
-<h1 align="center">Namaste , Mein Amish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Mobile+Developer;Hungry for%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<p align="center">Student at<a href="https://www.jiit.ac.in/" target="_blank"> Jaypee Institute of Information Technology,Noida</a>.<br>
-My major is Computer Science and I do Problem Solving for fun. I currently practice at Codechef and Leetcode and participate in Coding contests.</p>
-<br>
+# 💫 About Me:
+I am a third-year Engineering student at Jaypee Institute of Information Technology, I have a strong foundation in computer software development, with skills in C, C++, HTML, CSS, MySQL, Data Structures, and Algorithms. My passion for problem-solving and learning new concepts is evident to my dedication to competitive coding. Additionally, I am externally focused and supportive, with a natural desire to encourage others. I am passionate about new technologies and are eager for new challenges and changes in your career. Overall, I am a highly motivated and dedicated individual with a strong desire to excel in the field of computer software development.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amish-mishra-4a6597217/) 
 
-## 🛠️ My Skills
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amish1902&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amish1902&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amish1902&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Programming languages
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Amish1902&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### For Development
-<p align="left"> 
-  &emsp;
-   <a href="https://html.com/" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-blue??style=flat&logo=HTML">
-  </a>
-  &emsp;
-   <a href="https://www.w3schools.com/Css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-red??style=flat&logo=CSS">
-  </a>
-  &emsp;
-   <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JS-yellow??style=flat&logo=JS">
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Amish1902&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- ### Backend Development
-<p align="left">
-  &emsp;
-    <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-lightyellow??style=flat&logo=firebase"></a>
- </p> -->
-<!-- <br/> -->
-
-### Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  <p align="left">
-  &emsp;
-    <a href="https://aws.amazon.com/free/?trk=16847e0c-46fb-467d-91ee-6e259e339665&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-BI|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!10!71949448220923!71949892741875&ef_id=89f31e8b54c4120812c27c67a2d3c246:G:s&s_kwcid=AL!4422!10!71949448220923!71949892741875&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange??style=flat&logo=AWS">
-<br/>
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="mailto:amish1902@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Amish1902"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/amish-mishra-4a6597217/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>  </a>
- 	<a href="https://www.instagram.com/amish_mishra9/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</a>
-</p>
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
