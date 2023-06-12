@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year Engineering student at Jaypee Institute of Information Technology, I have a strong foundation in computer software development, with skills in C, C++, HTML, CSS, MySQL, Data Structures, and Algorithms. My passion for problem-solving and learning new concepts is evident to my dedication to competitive coding. Additionally, I am externally focused and supportive, with a natural desire to encourage others. I am passionate about new technologies and are eager for new challenges and changes in your career. Overall, I am a highly motivated and dedicated individual with a strong desire to excel in the field of computer software development.
+I am a final Engineering student at Jaypee Institute of Information Technology, I have a strong foundation in computer software development, with skills in C, C++, HTML, CSS, MySQL, Data Structures, and Algorithms. My passion for problem-solving and learning new concepts is evident to my dedication to competitive coding. Additionally, I am externally focused and supportive, with a natural desire to encourage others. I am passionate about new technologies and are eager for new challenges and changes in your career. Overall, I am a highly motivated and dedicated individual with a strong desire to excel in the field of computer software development.
 
 
 ## 🌐 Socials:
